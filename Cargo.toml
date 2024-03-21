@@ -30,7 +30,7 @@ scale-info = { version = "2.10.0", default-features = false, features = ["derive
 
 # Local
 kine-stat-tracker = { path = "pallets/stat-tracker", default-features = false }
-pallet-parachain-template = { git = "https://github.com/paritytech/polkadot-sdk.git", branch = "release-polkadot-v1.6.0", default-features = false }
+
 parachain-template-runtime = { git = "https://github.com/paritytech/polkadot-sdk.git", branch = "release-polkadot-v1.6.0" }
 
 
